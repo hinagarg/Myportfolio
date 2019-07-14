@@ -1,0 +1,2 @@
+C:\projects\Myportfolio\Myportfolio\src\Foundation\code\obj\Debug\Myportfolio.Foundations.SitecoreExtensions.csprojAssemblyReference.cache
+C:\projects\Myportfolio\Myportfolio\src\Foundation\code\obj\Debug\Myportfolio.Foundations.SitecoreExtensions.csproj.CoreCompileInputs.cache

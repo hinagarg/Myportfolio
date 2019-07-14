@@ -1,0 +1,10 @@
+﻿@model Sitecore.Mvc.Presentation.RenderingModel
+
+@using Myportfolio.Foundations.SitecoreExtensions.Extensions
+@using Sitecore.Mvc
+
+
+<a href=@ItemExtensions.LinkFieldUrl(Model.Rendering.Item, Model.Rendering.Item.Fields["Button"].ID)>
+<button type="button" class="btn btn-outline-secondary btn-lg">@Html.Sitecore().Field("Title")</button></a>
+
+    
